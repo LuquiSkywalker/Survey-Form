@@ -1,0 +1,41 @@
+body{
+  max-width: 95%;
+  display: block;
+  margin: auto;
+}
+#title{
+  display: flex;
+  justify-content: center;
+}
+
+#description{
+  font-size: 1.2em;
+  max-width: 80%;
+  display: block;
+  margin: auto;
+  text-align: justify;
+}
+
+#survey-form{
+
+  max-width: 60%;
+  display: block;
+  margin: auto;
+}
+
+.label-t{
+  font-weight: bold;
+}
+
+#radio{
+  display: block;
+}
+
+#checkbox{
+  display: block;
+
+}
+
+#txt-area{
+  max-width: 100%;
+}
